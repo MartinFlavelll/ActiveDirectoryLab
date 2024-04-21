@@ -70,8 +70,5 @@ Creating Users with <a href="https://github.com/joshmadakor1/AD_PS">Josh Madakor
 ```
 --!>
 
-##  Log into the client machine with a domain account.
+##################################
 
-![](attachments/Pasted%20image%2020230402160005.png)
-
-![](attachments/Pasted%20image%2020230402160120.png)
