@@ -183,10 +183,7 @@ https://user-images.githubusercontent.com/108043108/176953922-60b62f24-fd3f-41b4
 <br />
 <p align="center">
 <b>I log into a user account I created from the Powershell script to test if everything is configured correctly. Instead of logging into the user account created when I made the virtual machine, I try to log into a user created account in MYDOMAIN</b>  <br/>
-</p>
-<img src="https://i.imgur.com/dPeaySX.gif" height="80%" width="80%" alt="Testing The Environment"/>
-<br />
-<br />
+
 <p align="center">
 <b>Running command promt to see if the client VM is getting the IP address properly assigned by the DC. We can see that I was properly leased an IP address by the domain controller (circled red) and when I ping the domain, it works (circled yellow)</b>  <br/>
 </p>
