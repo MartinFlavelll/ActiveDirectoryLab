@@ -172,7 +172,7 @@ https://user-images.githubusercontent.com/108043108/176953922-60b62f24-fd3f-41b4
 <p align="center">
 <b>After configuring a separate virtual machine that will simulate an employee logging into the domain. Lets kill two birds with one stone by renaming the computer CLIENT1 and clicking the box to become a member of the mydomain.com domain. I am prompted to give my log in credential and I chose to use the Administrator account I set up earlier</b>  <br/>
 </p>
-<img src="https://i.imgur.com/ceB3tDJ.jpg" height="80%" width="80%" alt="Configuring the Client VM"/>
+
 <br />
 <br />
 <p align="center">
@@ -193,7 +193,6 @@ https://user-images.githubusercontent.com/108043108/176953922-60b62f24-fd3f-41b4
 <p align="center">
 <b>A final test to see that the work environment and bulk users I created is working</b>  <br/>
 </p>
-<img src="https://i.imgur.com/j6ZRHPz.jpg" height="80%" width="80%" alt="Testing The Environment"/>
 <br />
 <br />
 <p align="center">
